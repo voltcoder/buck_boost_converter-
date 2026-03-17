@@ -1,5 +1,6 @@
 # buck_boost_converter-simulation separately
-As the name suggest this repository consist of separate models. Simulation of a Buck-converter and Boost-converter using MATLAB/Simulink for studying DC-DC power conversion.
+Simulation of a Buck-converter and Boost-converter using MATLAB/Simulink for studying DC-DC power conversion.
+As the name suggest this repository consist of separate models.
 
 # Buck and Boost Converter Simulation using MATLAB/Simulink
 
